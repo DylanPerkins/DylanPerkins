@@ -10,4 +10,4 @@ I currently have an Associates Degree in basic engineering through Quinsigamond 
 - Java: Just starting the basics, but I am enjoying it so far!
 - SQLite - I have a bit of basic knowledge and can create simple things.
 
-👯 I currently have an intership through Joyn.gg and I am always trying to involve myself with our Python codebase to further learn the logic behind methodology used and to just overall learn all the coding languages and frameworks we use better.
+👯 I currently have an intership through Joyn.gg and I am always trying to involve myself with our codebase to further learn the logic behind the methodology used and to just overall learn the coding languages and frameworks we use.
